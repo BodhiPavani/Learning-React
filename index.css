@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+}
+
+body {
+    background-color: honeydew;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh ;
+}
+.button {
+      background-color: navy;
+      color: white;
+      padding: 8px 16px;
+      border-radius: 4px;
+    }
